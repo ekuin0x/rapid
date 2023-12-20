@@ -1,3 +1,4 @@
 flask
 deepcorrect
 gunicorn
+tensorflow
